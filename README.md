@@ -54,7 +54,7 @@ The performance of the final model is analyzed in detail, and insights are drawn
 
 To reproduce the results of this project, follow the steps below:
 
-1. Clone the repository to your local machine using the command: `git clone https://github.com/your_username/dna-classification.git`
+1. Clone the repository to your local machine using the command: `git clone https://github.com/rokithkumar/dna-classification.git`
 
 2. Install the required dependencies by running: `pip install -r requirements.txt`
 
