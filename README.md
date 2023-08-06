@@ -1,1 +1,1 @@
-# DNA-Classification
+# DNA Classification
